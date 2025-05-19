@@ -1,4 +1,5 @@
-Hi, I`m Tenko! Passionate Software Developer who loves building efficiennt scalable, and innovative solutions.
+Hi, I`m Tenko! 
+Passionate Software Developer who loves building efficiennt scalable, and innovative solutions.
 I enjoy tackling complex challenges and continiously learning new skills.
 Whether contributing to open source projects or developing impactful applications, I`m always excited to collaborate an create something great.
 Very interested in writing a good clean code, solving problems, growing up in the Tech environment.
