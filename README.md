@@ -5,7 +5,8 @@ Interested in writing a good clean code, solving problems, growing up in the Tec
 
 Tech: Languages: Python, JavaScript, HTML/CSS 
 Tools:  PyCharm, VS Code, Excel, Canva
-Libraries: pandas, Django
+Libraries: pandas
+Framework: Django
 
 Delighted when exploring new technologies or refined best practices, I enjoy collaborating and sharing knowledge in a teamwork or working on individual projects.
 
