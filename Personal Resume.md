@@ -4,7 +4,8 @@ Whether contributing to open source projects or developing impactful application
 Interested in writing a good clean code, solving problems, growing up in the Tech environment. 
 Delighted when exploring new technologies or refined best practices, I enjoy collaborating and sharing knowledge in a teamwork or working on individual projects.
 
-Tech Languages: Python, JavaScript, HTML/CSS 
+Tech Languages: Python, JavaScript, HTML/CSS
+
 Tools:  PyCharm, VS Code, Excel, Canva
 
 
